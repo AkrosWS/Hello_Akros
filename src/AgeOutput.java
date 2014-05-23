@@ -1,7 +1,8 @@
 
 public class AgeOutput {
 
-	public static void myAge(int age){
+	public static int myAge(int age){
 		System.out.println("My age is:"+age);
+		return age;
 	}
 }

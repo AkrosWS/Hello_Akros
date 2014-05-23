@@ -6,6 +6,7 @@ public class Home {
 		
 		System.out.println("no one here");
 		System.out.println("how is it going");
+		System.out.println(AgeOutput.myAge(20));
 	}
 
 }
